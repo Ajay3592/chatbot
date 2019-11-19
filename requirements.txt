@@ -32,5 +32,4 @@ tensorflow==1.14.0
 tensorflow-estimator==1.14.0
 webencodings==0.5.1
 Werkzeug==0.15.4
-ChatterBot>=1.0.0,<1.2.0
-
+ChatterBot==1.0.0

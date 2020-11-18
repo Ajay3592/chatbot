@@ -20,7 +20,7 @@ jsonschema==3.0.1
 jupyter-client==5.3.1
 jupyter-core==4.5.0
 Markdown==3.1.1
-notebook==5.7.8
+notebook==6.1.5
 python-dateutil==2.8.0
 PyYAML==5.1.1
 webencodings==0.5.1
